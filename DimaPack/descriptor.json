@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "d483844a-f139-3736-22fb-579a3da0e313",
+    "Name": "DimaPack",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1696952290000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/DimaPack.csproj",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}
