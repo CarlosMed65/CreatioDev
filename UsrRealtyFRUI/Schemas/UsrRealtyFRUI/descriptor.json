@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "66ea4aa4-0b6a-40b5-a22c-1f5633b85257",
+    "Name": "UsrRealtyFRUI",
+    "ModifiedOnUtc": "\/Date(1635762253000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty FRUI",
+    "DependsOn": []
+  }
+}
