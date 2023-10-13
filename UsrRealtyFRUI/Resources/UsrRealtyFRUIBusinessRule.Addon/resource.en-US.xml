@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.88e875a1-114c-db11-e18e-e52757d986c2.Caption" Value="Apply static filter: Manager" />
+			<Item Name="Caption" Value="Realty FRUI (Business rules)" />
+		</Items>
+	</Group>
+</Resources>
